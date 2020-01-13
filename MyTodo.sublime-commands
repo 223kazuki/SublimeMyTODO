@@ -1,6 +1,14 @@
 [
     {
-        "caption": "MyTODO: run",
-        "command": "my_todo"
+        "caption": "MyTodo: List Todos",
+        "command": "list_todos"
+    },
+    {
+        "caption": "MyTodo: Toggle Todo",
+        "command": "toggle_todo"
+    },
+    {
+        "caption": "MyTodo: New Todo",
+        "command": "new_todo"
     }
 ]
