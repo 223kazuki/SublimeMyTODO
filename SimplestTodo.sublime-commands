@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "SimplestTodo: List Todos",
+        "command": "list_todos"
+    },
+    {
+        "caption": "SimplestTodo: Toggle Todo",
+        "command": "toggle_todo"
+    },
+    {
+        "caption": "SimplestTodo: New Todo",
+        "command": "new_todo"
+    }
+]
